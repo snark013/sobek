@@ -1,2 +1,2 @@
-# sobek
-40% ortolinear keyboard
+# Sobek
+40% ortolinear keyboard (inspired by [Plank Keyboard](https://olkb.com/collections/planck))
