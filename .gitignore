@@ -7,3 +7,4 @@
 *.bck
 *~
 *.tmp
+.DS_Store
